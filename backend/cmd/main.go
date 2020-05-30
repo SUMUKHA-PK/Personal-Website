@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/SUMUKHA-PK/Basic-Golang-Server/server"
-	"github.com/SUMUKHA-PK/Personal-Website/backend/routing"
+	"github.com/SUMUKHA-PK/Personal-Website/backend/internal/routing"
 	"github.com/gorilla/mux"
 )
 
