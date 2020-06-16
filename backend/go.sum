@@ -6,7 +6,6 @@ github.com/SUMUKHA-PK/Database-password-management-system v0.0.0-20190610161826-
 github.com/SUMUKHA-PK/Database-password-management-system v0.0.0-20190615162529-3936bfacb4a5/go.mod h1:VbarV4g6xrcqbusQH0eC5gmmkEIlpSIBlv3vqh9USbs=
 github.com/SUMUKHA-PK/GetService v0.0.0-20190617163507-d4b0655b336f/go.mod h1:CRZJ3IM7pXnmBq7P3eDEm2wKzsOm+usmK3fY6QyO0aE=
 github.com/SUMUKHA-PK/Mail-Server v0.0.0-20190609055344-90c73a193cb2/go.mod h1:JyfFPZi5OLDbmvgbUionDlIv6vX2YVteNSrkIFVG35w=
-github.com/SUMUKHA-PK/Personal-Website/backend v0.0.0-20200530060214-c473f73d42f9 h1:UnkQFYty+zAqd7hguWGU8EFNQ3n3jLFEGbnvUyiQ/B8=
 github.com/go-sql-driver/mysql v1.4.1/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
 github.com/golang/protobuf v1.3.1/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=

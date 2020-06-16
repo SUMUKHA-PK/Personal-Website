@@ -1,4 +1,4 @@
-module github.com/SUMUKHA-PK/Personal-Website
+module github.com/SUMUKHA-PK/Personal-Website/backend
 
 go 1.13
 
